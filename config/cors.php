@@ -29,6 +29,7 @@ return [
 
     'max_age' => 0,
 
-    'supports_credentials' => false,
+    // trueに変更する
+    'supports_credentials' => true,
 
 ];
